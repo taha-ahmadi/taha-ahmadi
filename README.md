@@ -1,4 +1,5 @@
-![gif](https://media.giphy.com/media/VWZUOQ2jPGviE/giphy.gif)
+Hi there 👋
+<!--[gif](https://media.giphy.com/media/VWZUOQ2jPGviE/giphy.gif) -->
 <!--
 **taha-ahmadi/taha-ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
