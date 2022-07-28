@@ -80,19 +80,6 @@ I'm a software engineer who loves coding and collaboration</div>
 <br/>  
 
 
-## Github Stats  
-<div align="center">  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taha-ahmadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-ahmadi&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>
-</div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
