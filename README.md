@@ -4,10 +4,7 @@
   
 
 ### <div align="center">I'm Taha
-I'm a software engineer who loves coding and collaboration</div>  
-  
-
-- 🌱 I’m currently learning Go and Algorithms  
+I'm a software engineer who loves coding</div>  
   
 
 <br/>  
