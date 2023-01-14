@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://media.giphy.com/media/2vlC9FMLSmqGs/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Taha
 I'm a software engineer who loves coding</div>  
